@@ -1,43 +1,59 @@
-# 👩‍💻 Tisa — Python AI Developer
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Taslima+Akhter;Python+AI+Cloud+DevOps;Building+real-world+projects&center=true&width=650&color=800000)
 
-Welcome to my GitHub! I’m a passionate Python AI developer with a growing portfolio of AI-powered projects. My work includes intelligent summarizers, chatbots, data visualizations, and automation tools — all built using Python, NLP, and machine learning techniques.
+### <span style="color:#800000">👩‍💻 Python | AI | Cloud | DevOps Learner</span>  
+Focused on building practical projects for remote tech roles
 
-## 🔥 Featured Projects
+---
 
-### 📰 AI News Recommender
-AI system that fetches, summarizes, tags, and recommends real-time news articles using Python and Hugging Face.
+## <span style="color:#800000">About Me</span>
 
-### 📝 AI Text Summarizer
-Summarizes long articles into concise summaries with Hugging Face Transformers and NLP libraries.
+I am a motivated Python and AI learner expanding into Cloud and DevOps.  
+I focus on hands-on projects, clean code, and continuous improvement.
 
-### 🎥 YouTube Transcript Summarizer
-Extracts and summarizes YouTube video transcripts using Python and transformer models.
+- 🔭 Working on Python & AI projects  
+- 🌱 Learning AWS & DevOps fundamentals  
+- 🎯 Goal: Cloud / AI Engineer (Remote)
 
-### 💬 Python Chatbot
-A rule-based or NLP-driven chatbot that engages in simple conversations and question-answering.
+---
 
-### 🧠 Sentiment Analysis NLP
-Performs sentiment analysis on text input using NLP techniques.
+## <span style="color:#800000">Skills</span>
 
-### 📊 Titanic Data Visualization
-Visualizes Titanic survival data using Python data science libraries.
+**Programming:** Python  
+**AI / ML:** NLP basics, ML fundamentals  
+**Cloud:** AWS (EC2, S3 – learning)  
+**DevOps:** Git, GitHub, Docker (learning)  
+**Tools:** VS Code, Linux
 
-### 🧪 Other Projects
-- Python Web Automation (Google Form)  
-- Iris ML Classifier  
-- Feedback Analyzer  
-- Python Data Visualization  
-- Day 8 Data Analysis Practice  
-- Portfolio Website  
+---
 
-## 💼 About Me
+## <span style="color:#800000">Featured Projects</span>
 
-I'm actively building projects to sharpen my Python AI skills and pursuing certification to become a stronger remote-ready developer. I enjoy working on meaningful projects and collaborating remotely with global teams.
+- 🔹 **AI Article Summarizer**  
+  Automatically summarizes articles and generates concise insights.
 
-📧 Email: webdomain0126@gmail.com  
-🔗 LinkedIn: [freelancertisa](https://www.linkedin.com/in/freelancertisa)  
-🔗 GitHub: [webdomain0126](https://github.com/webdomain0126)
+- 🔹 **AI News Recommender**  
+  Personalized news recommendations with category tagging and read time estimation.
 
-Thanks for visiting my profile! ⭐ Feel free to explore, fork, or connect with me.
+- 🔹 **Sentiment Analysis Tool**  
+  Analyzes text to detect positive, negative, or neutral sentiment.
+
+- 🔹 **Smart Data AI Platform**  
+  End-to-end platform for data processing, visualization, and AI predictions.
+
+- 🔹 **Portfolio Website** *(optional next project)*  
+  Showcases your skills, projects, and professional profile.
+
+- 🔹 **Other Python/AI Mini Projects**  
+  Small projects demonstrating ML models, NLP experiments, or cloud integration.
+
+---
+
+### <span style="color:#800000">Next Steps</span>
+
+- Add **project links** for each Featured Project  
+- Add **live demo links** if possible  
+- Maintain **clean code and professional READMEs** for each project  
+- Keep updating skills and new projects to show continuous learning
+
 
 
