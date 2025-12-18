@@ -48,12 +48,6 @@ I focus on hands-on projects, clean code, and continuous improvement.
 
 ---
 
-### <span style="color:#800000">Next Steps</span>
-
-- Add **project links** for each Featured Project  
-- Add **live demo links** if possible  
-- Maintain **clean code and professional READMEs** for each project  
-- Keep updating skills and new projects to show continuous learning
 
 
 
