@@ -1,52 +1,81 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Taslima+Akhter;Python+AI+Cloud+DevOps;Building+real-world+projects&center=true&width=650&color=800000)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Taslima+Akhter;Python+AI+Cloud+DevOps;Building+Real-World+Data+Projects&center=true&width=650&color=800000)
 
-### <span style="color:#800000">👩‍💻 Python | AI | Cloud | DevOps Learner</span>  
-Focused on building practical projects for remote tech roles
-
----
-
-## <span style="color:#800000">About Me</span>
-
-I am a motivated Python and AI learner expanding into Cloud and DevOps.  
-I focus on hands-on projects, clean code, and continuous improvement.
-
-- 🔭 Working on Python & AI projects  
-- 🌱 Learning AWS & DevOps fundamentals  
-- 🎯 Goal: Cloud / AI Engineer (Remote)
+### 👩‍💻 Python • Data Engineering • AI • Cloud Learner
+Focused on building practical data and automation projects for remote tech roles 🚀
 
 ---
 
-## <span style="color:#800000">Skills</span>
+## 🚀 About Me
 
-**Programming:** Python  
-**AI / ML:** NLP basics, ML fundamentals  
-**Cloud:** AWS (EC2, S3 – learning)  
-**DevOps:** Git, GitHub, Docker (learning)  
-**Tools:** VS Code, Linux
+I am an aspiring **Data & AI Engineer** passionate about building real-world solutions using Python, Snowflake, AI, and Cloud technologies.
+
+- 🔭 Building Python automation & data engineering projects  
+- ❄️ Working with **Snowflake + Python data connections**  
+- 🌱 Learning AWS Cloud & DevOps fundamentals  
+- 🤖 Exploring Machine Learning & NLP applications  
+- 🎯 Goal: Data / Cloud / AI Engineer (Remote Role)
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Programming:** Python, SQL  
+**Data Engineering:** Snowflake, Data Processing, ETL Concepts  
+**AI / ML:** Machine Learning Fundamentals, NLP Basics  
+**Cloud:** AWS (EC2, S3, IAM – Learning)  
+**DevOps:** Git, GitHub, Docker (Learning)  
+**Tools:** VS Code, Linux, Jupyter Notebook  
+**Libraries:** Pandas, NumPy, Matplotlib
 
 ---
 
-## <span style="color:#800000">Featured Projects</span>
+## 📌 Featured Projects
 
-- 🔹 **AI Article Summarizer**  
-  Automatically summarizes articles and generates concise insights.
+🔹 **Snowflake + Python Data Integration**  
+Connected Python applications with Snowflake database for querying, processing, and managing cloud data workflows.
 
-- 🔹 **AI News Recommender**  
-  Personalized news recommendations with category tagging and read time estimation.
+🔹 **AI Article Summarizer**  
+Automatically summarizes articles and generates concise insights using NLP.
 
-- 🔹 **Sentiment Analysis Tool**  
-  Analyzes text to detect positive, negative, or neutral sentiment.
+🔹 **AI News Recommender**  
+Personalized news recommendations with category tagging and read-time estimation.
 
-- 🔹 **Smart Data AI Platform**  
-  End-to-end platform for data processing, visualization, and AI predictions.
+🔹 **Sentiment Analysis Tool**  
+Analyzes text to classify sentiment as positive, negative, or neutral.
 
-- 🔹 **Portfolio Website** *(optional next project)*  
-  Showcases your skills, projects, and professional profile.
+🔹 **Smart Data AI Platform**  
+End-to-end platform for data processing, visualization, and AI predictions.
 
-- 🔹 **Other Python/AI Mini Projects**  
-  Small projects demonstrating ML models, NLP experiments, or cloud integration.
+🔹 **Portfolio Website (Upcoming)**  
+Professional website showcasing projects, skills, and experience.
 
 ---
+
+## 📈 Current Learning Path
+
+- ☁️ AWS Cloud & Deployment
+- ❄️ Snowflake Data Engineering
+- 🐳 Docker & Containerization
+- ⚙️ Data Pipelines & Automation
+- 🤖 Applied AI Systems
+
+---
+
+## 🌐 GitHub Profile
+
+👉 https://github.com/webdomain0126
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/freelancertisa/
+- 📧 Email: webdomain0126@gmail.com
+
+---
+
+⭐ *Always learning. Always building.*
+
 
 
 
