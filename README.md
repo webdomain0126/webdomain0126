@@ -1,82 +1,47 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Taslima+Akhter;Python+AI+Cloud+DevOps;Building+Real-World+Data+Projects&center=true&width=650&color=800000)
+# Hi, I'm Tisa 👋 — Backend Developer
 
-### 👩‍💻 Python • Data Engineering • AI • Cloud Learner
-Focused on building practical data and automation projects for remote tech roles 🚀
+🚀 Backend Developer | Next.js | PostgreSQL | REST API | Node.js
 
----
+## 🔭 About Me
+I am a Backend Developer with hands-on experience building real-world production applications. I recently built a complete backend for an AI-powered restaurant platform used by real businesses in the UK.
 
-## 🚀 About Me
+## 💼 Latest Project — Hungrin AI Restaurant Platform
+> AI-powered restaurant growth platform for UK restaurants
 
-I am an aspiring **Data & AI Engineer** passionate about building real-world solutions using Python, Snowflake, AI, and Cloud technologies.
+**What I built:**
+- ✅ Complete REST API backend with Next.js
+- ✅ PostgreSQL database setup with Prisma ORM
+- ✅ Authentication system with bcrypt & JWT
+- ✅ MongoDB to PostgreSQL migration
+- ✅ Real-time data integration for dashboard, orders, customers, campaigns
+- ✅ Copy-paste promotion system for Uber Eats, Deliveroo & Just Eat
 
-- 🔭 Building Python automation & data engineering projects  
-- ❄️ Working with **Snowflake + Python data connections**  
-- 🌱 Learning AWS Cloud & DevOps fundamentals  
-- 🤖 Exploring Machine Learning & NLP applications  
-- 🎯 Goal: Data / Cloud / AI Engineer (Remote Role)
+## 🛠️ Tech Stack
+**Backend:** Next.js | Node.js | REST API | PostgreSQL | MongoDB | Prisma
 
----
+**Frontend:** React | TypeScript | Tailwind CSS
 
-## 🛠️ Skills & Technologies
+**Tools:** Git | GitHub | Vercel | Neon | VS Code
 
-**Programming:** Python, SQL  
-**Data Engineering:** Snowflake, Data Processing, ETL Concepts  
-**AI / ML:** Machine Learning Fundamentals, NLP Basics  
-**Cloud:** AWS (EC2, S3, IAM – Learning)  
-**DevOps:** Git, GitHub, Docker (Learning)  
-**Tools:** VS Code, Linux, Jupyter Notebook  
-**Libraries:** Pandas, NumPy, Matplotlib
+## 📌 Projects
 
----
+### 🔹 Hungrin AI Restaurant Platform
+Full backend for AI restaurant platform — PostgreSQL, Prisma, Next.js API routes, authentication, real data integration
 
-## 📌 Featured Projects
+### 🔹 AI Article Summarizer
+Automatically summarizes articles using NLP
 
-🔹 **Snowflake + Python Data Integration**  
-Connected Python applications with Snowflake database for querying, processing, and managing cloud data workflows.
+### 🔹 AI News Recommender
+Personalized news recommendations with category tagging
 
-🔹 **AI Article Summarizer**  
-Automatically summarizes articles and generates concise insights using NLP.
+### 🔹 Sentiment Analysis Tool
+Analyzes text sentiment — positive, negative, neutral
 
-🔹 **AI News Recommender**  
-Personalized news recommendations with category tagging and read-time estimation.
-
-🔹 **Sentiment Analysis Tool**  
-Analyzes text to classify sentiment as positive, negative, or neutral.
-
-🔹 **Smart Data AI Platform**  
-End-to-end platform for data processing, visualization, and AI predictions.
-
-🔹 **Portfolio Website (Upcoming)**  
-Professional website showcasing projects, skills, and experience.
-
----
-
-## 📈 Current Learning Path
-
-- ☁️ AWS Cloud & Deployment
-- ❄️ Snowflake Data Engineering
-- 🐳 Docker & Containerization
-- ⚙️ Data Pipelines & Automation
-- 🤖 Applied AI Systems
-
----
-
-## 🌐 GitHub Profile
-
-👉 https://github.com/webdomain0126
-
----
-
-## 🤝 Connect With Me
-
+## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/freelancertisa/
 - 📧 Email: webdomain0126@gmail.com
+- 💻 Upwork: (add your link)
 
----
-
-⭐ *Always learning. Always building.*
-
-
-
+⭐ Always learning. Always building. Always delivering!
 
 
