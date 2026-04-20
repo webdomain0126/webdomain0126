@@ -8,12 +8,15 @@ I am a Backend Developer with hands-on experience building real-world production
 ## 💼 Latest Project — Hungrin AI Restaurant Platform
 > AI-powered restaurant growth platform for UK restaurants
 
+🌐 **Live:** https://hungrin-dev.vercel.app
+
 **What I built:**
 - ✅ Complete REST API backend with Next.js
 - ✅ PostgreSQL database setup with Prisma ORM
-- ✅ Authentication system with bcrypt & JWT
+- ✅ Authentication system with bcrypt
 - ✅ MongoDB to PostgreSQL migration
 - ✅ Real-time data integration for dashboard, orders, customers, campaigns
+- ✅ AI chat using real restaurant data
 - ✅ Copy-paste promotion system for Uber Eats, Deliveroo & Just Eat
 
 ## 🛠️ Tech Stack
@@ -25,8 +28,10 @@ I am a Backend Developer with hands-on experience building real-world production
 
 ## 📌 Projects
 
-### 🔹 Hungrin AI Restaurant Platform
-Full backend for AI restaurant platform — PostgreSQL, Prisma, Next.js API routes, authentication, real data integration
+### 🔹 Hungrin AI Restaurant Platform (Live ✅)
+🌐 https://hungrin-dev.vercel.app
+
+Full backend for AI restaurant platform — PostgreSQL, Prisma, Next.js API routes, authentication, real data integration, AI chat with real data
 
 ### 🔹 AI Article Summarizer
 Automatically summarizes articles using NLP
@@ -42,6 +47,8 @@ Analyzes text sentiment — positive, negative, neutral
 - 📧 Email: webdomain0126@gmail.com
 - 💻 Upwork: (add your link)
 
-⭐ Always learning. Always building. Always delivering!
+⭐ Always learning. Always building. Always delivering! 🚀
+
+
 
 
