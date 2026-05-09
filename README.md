@@ -1,4 +1,4 @@
-# Hi, I'm Tisa 👋 — Backend Developer
+# Hi, I'm Tisa 👋 — Backend Engineer
 
 🚀 Backend Developer | Next.js | PostgreSQL | REST API | Node.js
 
