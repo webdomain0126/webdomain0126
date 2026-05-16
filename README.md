@@ -8,7 +8,7 @@ I am a Backend Engineer with hands-on experience building real-world production 
 ## 💼 Latest Project — Hungrin AI Restaurant Platform
 > AI-powered restaurant growth platform for UK restaurants
 
-🌐 **Live:** https://hungrin-dev.vercel.app
+🌐 **Live:**https://hungrin.com
 
 **What I built:**
 - ✅ Complete REST API backend with Next.js
@@ -29,7 +29,7 @@ I am a Backend Engineer with hands-on experience building real-world production 
 ## 📌 Projects
 
 ### 🔹 Hungrin AI Restaurant Platform (Live ✅)
-🌐 https://hungrin-dev.vercel.app
+🌐 https://hungrin.com
 
 Full backend for AI restaurant platform — PostgreSQL, Prisma, Next.js API routes, authentication, real data integration, AI chat with real data
 
