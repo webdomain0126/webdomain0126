@@ -3,7 +3,7 @@
 🚀 Backend Engineer | Next.js | PostgreSQL | REST API | Node.js
 
 ## 🔭 About Me
-I am a Backend Developer with hands-on experience building real-world production applications. I recently built a complete backend for an AI-powered restaurant platform used by real businesses in the UK.
+I am a Backend Engineer with hands-on experience building real-world production applications. I recently built a complete backend for an AI-powered restaurant platform used by real businesses in the UK.
 
 ## 💼 Latest Project — Hungrin AI Restaurant Platform
 > AI-powered restaurant growth platform for UK restaurants
