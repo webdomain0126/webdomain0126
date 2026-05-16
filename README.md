@@ -45,7 +45,7 @@ Analyzes text sentiment — positive, negative, neutral
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/freelancertisa/
 - 📧 Email: webdomain0126@gmail.com
-- 💻 Upwork: (add your link)
+- 💻 Upwork: https://www.upwork.com/freelancers/~01e0812d2a47505c90
 
 ⭐ Always learning. Always building. Always delivering! 🚀
 
