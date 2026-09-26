@@ -4,7 +4,23 @@
 
 ## 🔭 About Me
 I am a Backend Engineer with hands-on experience building real-world production applications. I recently built a complete backend for an AI-powered restaurant platform used by real businesses in the UK.
+## 🇫🇮 Latest Project — Suomen Polku (Finnish Learning Platform)
 
+> Bilingual (Finnish/English) Finnish-language course platform for Bangladeshi learners
+
+🔗 **Code:** https://github.com/webdomain0126/suomen-polku  
+🌐 **Live:** YOUR-VERCEL-LINK
+
+**What I built:**
+- ✅ Bilingual routing with localized URLs (`/fi/kurssi` ↔ `/en/course`) using next-intl
+- ✅ Custom authentication: bcrypt password hashing + signed JWT in httpOnly cookies
+- ✅ PostgreSQL (Neon) + Prisma with safe, non-destructive migrations
+- ✅ Protected student dashboard with real progress tracking
+- ✅ Lesson-level progress system (per student, per lesson, no duplicates)
+- ✅ Trilingual lesson content (Finnish · বাংলা · English) with quizzes and practice
+- ✅ Month progress calculated automatically from completed lessons
+
+**Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · Prisma · PostgreSQL · Vercel
 ## 💼 Latest Project — Hungrin AI Restaurant Platform
 > AI-powered restaurant growth platform for UK restaurants
 
