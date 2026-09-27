@@ -3,7 +3,7 @@
 🚀 Full-Stack Engineer | Next.js | Node.js | TypeScript | PostgreSQL | REST APIs | AI
 
 ## 🔭 About Me
-I am a Backend Engineer with hands-on experience building real-world production applications. I recently built a complete backend for an AI-powered restaurant platform used by real businesses in the UK.
+I am a Full-Stack Engineer with hands-on experience building real-world production applications. I recently built a complete backend for an AI-powered restaurant platform used by real businesses in the UK.
 ## 🇫🇮 Latest Project — Suomen Polku (Finnish Learning Platform)
 
 > Bilingual (Finnish/English) Finnish-language course platform for Bangladeshi learners
