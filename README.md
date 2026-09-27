@@ -1,6 +1,6 @@
-# Hi, I'm Tisa 👋 — Backend Engineer
+# Hi, I'm Tisa 👋 — Full-Stack Engineer
 
-🚀 Backend Engineer | Next.js | PostgreSQL | REST API | Node.js
+🚀 Full-Stack Engineer | Next.js | Node.js | TypeScript | PostgreSQL | REST APIs | AI
 
 ## 🔭 About Me
 I am a Backend Engineer with hands-on experience building real-world production applications. I recently built a complete backend for an AI-powered restaurant platform used by real businesses in the UK.
