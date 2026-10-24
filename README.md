@@ -12,7 +12,7 @@ Most of my current work is about teaching Finnish to Bangla speakers, so my proj
 
 ## Featured work
 
-### 🇫🇮 Suomen Polku: a Finnish course for Bangladeshi learners
+### Suomen Polku: a Finnish course for Bangladeshi learners
 
 A bilingual web course with lessons in Finnish, Bangla and English side by side.
 
@@ -22,9 +22,10 @@ A bilingual web course with lessons in Finnish, Bangla and English side by side.
 - Lesson content stored as typed data, with one registry as the source of truth
 
 **Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL · Vercel
-**Code:** [suomen-polku](https://github.com/webdomain0126/suomen-polku) · **Live:** ADD-YOUR-LIVE-LINK
 
-### 🍽️ Hungrin: AI restaurant growth platform (client work)
+**Code:** [suomen-polku](https://github.com/webdomain0126/suomen-polku) · **Live:** [suomen-polku-app.vercel.app](https://suomen-polku-app.vercel.app) ([English](https://suomen-polku-app.vercel.app/en) · [Suomi](https://suomen-polku-app.vercel.app/fi))
+
+### Hungrin: AI restaurant growth platform (client work)
 
 I built the backend for a platform used by UK restaurants: REST API, a MongoDB to PostgreSQL migration, authentication, live dashboard data, and an AI chat grounded in each restaurant's own data.
 
@@ -64,8 +65,11 @@ TypeScript, no runtime dependencies, tested against a hand-checked table of real
 ## Toolbox
 
 **Frontend:** React · Next.js · TypeScript · Tailwind CSS
+
 **Backend:** Node.js · Express · FastAPI · Flask · REST APIs
+
 **Data:** PostgreSQL · Prisma · SQL · MongoDB · pandas
+
 **Other:** NLP workflows · data pipelines · Git · Vercel · Neon
 
 ## Contact
