@@ -1,70 +1,73 @@
-# Hi, I'm Tisa 👋 — Full-Stack Engineer
+<p align="center">
+  <img src="banner.svg" alt="Tisa Akhter: languages, algorithms and interfaces that explain themselves" width="100%">
+</p>
 
-🚀 Full-Stack Engineer | Next.js | Node.js | TypeScript | PostgreSQL | REST APIs | AI
+# Hi, I'm Tisa
 
-## 🔭 About Me
-I am a Full-Stack Engineer with hands-on experience building real-world production applications. I recently built a complete backend for an AI-powered restaurant platform used by real businesses in the UK.
-## 🇫🇮 Latest Project — Suomen Polku (Finnish Learning Platform)
+I'm a full-stack developer (Next.js, TypeScript, Python, PostgreSQL). I build software where **languages, algorithms and interfaces that explain themselves** meet.
 
-> Bilingual (Finnish/English) Finnish-language course platform for Bangladeshi learners
+Most of my current work is about teaching Finnish to Bangla speakers, so my projects speak three languages: **Finnish · বাংলা · English**.
 
-🔗 **Code:** https://github.com/webdomain0126/suomen-polku  
-🌐 **Live:** YOUR-VERCEL-LINK
+---
 
-**What I built:**
-- ✅ Bilingual routing with localized URLs (`/fi/kurssi` ↔ `/en/course`) using next-intl
-- ✅ Custom authentication: bcrypt password hashing + signed JWT in httpOnly cookies
-- ✅ PostgreSQL (Neon) + Prisma with safe, non-destructive migrations
-- ✅ Protected student dashboard with real progress tracking
-- ✅ Lesson-level progress system (per student, per lesson, no duplicates)
-- ✅ Trilingual lesson content (Finnish · বাংলা · English) with quizzes and practice
-- ✅ Month progress calculated automatically from completed lessons
+## Featured work
 
-**Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · Prisma · PostgreSQL · Vercel
-## 💼 Latest Project — Hungrin AI Restaurant Platform
-> AI-powered restaurant growth platform for UK restaurants
+### 🇫🇮 Suomen Polku: a Finnish course for Bangladeshi learners
 
-🌐 **Live:**https://hungrin.com
+A bilingual web course with lessons in Finnish, Bangla and English side by side.
 
-**What I built:**
-- ✅ Complete REST API backend with Next.js
-- ✅ PostgreSQL database setup with Prisma ORM
-- ✅ Authentication system with bcrypt
-- ✅ MongoDB to PostgreSQL migration
-- ✅ Real-time data integration for dashboard, orders, customers, campaigns
-- ✅ AI chat using real restaurant data
-- ✅ Copy-paste promotion system for Uber Eats, Deliveroo & Just Eat
+- Localised routes (`/fi/kurssi` ↔ `/en/course`) with next-intl
+- Custom auth: bcrypt hashing and signed JWTs in httpOnly cookies
+- Per-lesson progress tracking with PostgreSQL (Neon) and Prisma
+- Lesson content stored as typed data, with one registry as the source of truth
 
-## 🛠️ Tech Stack
-**Backend:** Next.js | Node.js | REST API | PostgreSQL | MongoDB | Prisma
+**Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL · Vercel
+**Code:** [suomen-polku](https://github.com/webdomain0126/suomen-polku) · **Live:** ADD-YOUR-LIVE-LINK
 
-**Frontend:** React | TypeScript | Tailwind CSS
+### 🍽️ Hungrin: AI restaurant growth platform (client work)
 
-**Tools:** Git | GitHub | Vercel | Neon | VS Code
+I built the backend for a platform used by UK restaurants: REST API, a MongoDB to PostgreSQL migration, authentication, live dashboard data, and an AI chat grounded in each restaurant's own data.
 
-## 📌 Projects
+**Live:** [hungrin.com](https://hungrin.com)
 
-### 🔹 Hungrin AI Restaurant Platform (Live ✅)
-🌐 https://hungrin.com
+---
 
-Full backend for AI restaurant platform — PostgreSQL, Prisma, Next.js API routes, authentication, real data integration, AI chat with real data
+## Building now
 
-### 🔹 AI Article Summarizer
-Automatically summarizes articles using NLP
+### Taivutin: an explainable Finnish verb engine *(in progress)*
 
-### 🔹 AI News Recommender
-Personalized news recommendations with category tagging
+Conjugation tables show the answer, not the reason. Taivutin shows every rule as a step, and tells learners *which* rule a wrong answer broke:
 
-### 🔹 Sentiment Analysis Tool
-Analyzes text sentiment — positive, negative, neutral
+```
+tavata → tava-    remove -ta
+       → tapa-    consonant gradation: v → p (strong grade)
+       → tapaa-   add -a
+       → tapaan   first person: -n
+```
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/freelancertisa/
-- 📧 Email: webdomain0126@gmail.com
-- 💻 Upwork: https://www.upwork.com/freelancers/~01e0812d2a47505c90
+TypeScript, no runtime dependencies, tested against a hand-checked table of real forms. Explanations in Finnish, English and Bangla.
 
-⭐ Always learning. Always building. Always delivering! 🚀
+### Small language experiments *(planned)*
 
+- **Finnish in Bangla script:** see how Finnish words sound, written in Bangla letters
+- **Vowel harmony playground:** watch a/ä and o/ö endings switch as you type
+- **Finnish typing tutor:** practise ä and ö on any keyboard
 
+---
 
+## How I work
 
+- Small, finished and tested beats big and unfinished
+- Every project gets a real README, real screenshots and an honest list of what it can't do yet
+- Core features work without paid APIs
+
+## Toolbox
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS
+**Backend:** Node.js · Express · FastAPI · Flask · REST APIs
+**Data:** PostgreSQL · Prisma · SQL · MongoDB · pandas
+**Other:** NLP workflows · data pipelines · Git · Vercel · Neon
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/freelancertisa/) · [Upwork](https://www.upwork.com/freelancers/~01e0812d2a47505c90) · webdomain0126@gmail.com

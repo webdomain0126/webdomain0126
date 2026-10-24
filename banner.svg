@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Tisa Akhter: languages, algorithms and interfaces that explain themselves">
+  <rect width="1200" height="300" fill="#0f2a2a"/>
+  <g stroke="#1f4a48" stroke-width="1" fill="none">
+    <path d="M0 262 Q150 247 300 262 T600 262 T900 262 T1200 262"/>
+    <path d="M0 280 Q150 265 300 280 T600 280 T900 280 T1200 280"/>
+    <path d="M0 298 Q150 283 300 298 T600 298 T900 298 T1200 298"/>
+  </g>
+  <text x="60" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#f4f7f5">Tisa Akhter</text>
+  <text x="60" y="138" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#9fc7c0">languages · algorithms · interfaces that explain themselves</text>
+  <text x="60" y="172" font-family="'Segoe UI', 'Nirmala UI', Vrinda, 'Noto Sans Bengali', Helvetica, Arial, sans-serif" font-size="18" fill="#6f9e97">Suomi · বাংলা · English</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="24">
+    <text x="60" y="224" fill="#9fc7c0">tavata</text>
+    <text x="160" y="224" fill="#4f7f78">→</text>
+    <text x="196" y="224" fill="#f4f7f5">ta<tspan fill="#ffcf5c">p</tspan>aa<tspan fill="#ffcf5c">n</tspan></text>
+  </g>
+  <text x="320" y="222" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#6f9e97">v → p consonant gradation · -n first person</text>
+</svg>
