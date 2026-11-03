@@ -1,77 +1,57 @@
-<p align="center">
-  <img src="banner.svg" alt="Tisa Akhter: languages, algorithms and interfaces that explain themselves" width="100%">
-</p>
+<img src="banner.svg" alt="Tisa Akhter, Full-Stack Engineer: Go, Next.js, PostgreSQL, Redis" width="100%">
 
-# Hi, I'm Tisa
+## Hi, I'm Tisa 👋
 
-I'm a full-stack developer (Next.js, TypeScript, Python, PostgreSQL). I build software where **languages, algorithms and interfaces that explain themselves** meet.
+I'm a **full-stack engineer**. On the backend I build reliable, concurrent systems with **Go, PostgreSQL
+and Redis**; on the frontend I ship web apps with **Next.js, React and TypeScript**, and I've taken
+AI-powered products from idea to production. I care about software that is **tested, measured, and honest
+about its trade-offs**.
 
-Most of my current work is about teaching Finnish to Bangla speakers, so my projects speak three languages: **Finnish · বাংলা · English**.
+## ⭐ Featured work
 
----
+### [GoFlow](https://github.com/webdomain0126/goflow): distributed job processing engine in Go
 
-## Featured work
+A background-job system: jobs come in through a REST API, are stored in PostgreSQL, and are run
+concurrently by a pool of workers that can be spread across many machines.
 
-### Suomen Polku: a Finnish course for Bangladeshi learners
+- **Safe concurrent claiming** with `SELECT … FOR UPDATE SKIP LOCKED`: many workers, one queue, no job ever claimed twice (proven by a 20-goroutine race test)
+- **Worker pool** with goroutines and channels, leases, heartbeats, crash recovery and graceful shutdown
+- **Retries** with exponential backoff and jitter; priorities and scheduled jobs
+- **Redis** for instant wake-ups, cross-worker rate limiting and a live worker registry, with graceful fallback when Redis is down
+- **120+ tests** (unit, integration, end-to-end) in GitHub Actions CI with the race detector · ~2,900 jobs/sec benchmarked · Docker · Prometheus metrics
 
-A bilingual web course with lessons in Finnish, Bangla and English side by side.
-
-- Localised routes (`/fi/kurssi` ↔ `/en/course`) with next-intl
-- Custom auth: bcrypt hashing and signed JWTs in httpOnly cookies
-- Per-lesson progress tracking with PostgreSQL (Neon) and Prisma
-- Lesson content stored as typed data, with one registry as the source of truth
-
-**Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL · Vercel
-
-**Code:** [suomen-polku](https://github.com/webdomain0126/suomen-polku) · **Live:** [suomen-polku-app.vercel.app](https://suomen-polku-app.vercel.app) ([English](https://suomen-polku-app.vercel.app/en) · [Suomi](https://suomen-polku-app.vercel.app/fi))
+**Stack:** Go · PostgreSQL · Redis · Docker · GitHub Actions
 
 ### Hungrin: AI restaurant growth platform (client work)
 
-I built the backend for a platform used by UK restaurants: REST API, a MongoDB to PostgreSQL migration, authentication, live dashboard data, and an AI chat grounded in each restaurant's own data.
+I built the backend for a platform used by UK restaurants: REST API, a MongoDB to PostgreSQL migration,
+authentication, a live dashboard, and an AI chat grounded in each restaurant's own data.
 
 **Live:** [hungrin.com](https://hungrin.com)
 
----
+### More projects
 
-## Building now
-
-### Taivutin: an explainable Finnish verb engine *(in progress)*
-
-Conjugation tables show the answer, not the reason. Taivutin shows every rule as a step, and tells learners *which* rule a wrong answer broke:
-
-```
-tavata → tava-    remove -ta
-       → tapa-    consonant gradation: v → p (strong grade)
-       → tapaa-   add -a
-       → tapaan   first person: -n
-```
-
-TypeScript, no runtime dependencies, tested against a hand-checked table of real forms. Explanations in Finnish, English and Bangla.
-
-### Small language experiments *(planned)*
-
-- **Finnish in Bangla script:** see how Finnish words sound, written in Bangla letters
-- **Vowel harmony playground:** watch a/ä and o/ö endings switch as you type
-- **Finnish typing tutor:** practise ä and ö on any keyboard
-
----
+- **[suomen-polku](https://github.com/webdomain0126/suomen-polku)**: Finnish course platform · Next.js 16, TypeScript, Prisma, PostgreSQL, custom JWT auth · [live](https://suomen-polku-app.vercel.app)
+- **[snowflake-data-engineering-pipeline](https://github.com/webdomain0126/snowflake-data-engineering-pipeline)**: Python and Snowflake ETL pipeline
+- **[crypto-ai-dashboard](https://github.com/webdomain0126/crypto-ai-dashboard)**: AI-powered crypto analytics with live market data
+- **[fastapi-flask-crud-journey](https://github.com/webdomain0126/fastapi-flask-crud-journey)**: REST CRUD APIs with FastAPI and Flask
 
 ## How I work
 
 - Small, finished and tested beats big and unfinished
-- Every project gets a real README, real screenshots and an honest list of what it can't do yet
-- Core features work without paid APIs
+- I don't trust a test until I've seen it fail
+- Every project gets a real README and an honest list of what it can't do yet
 
-## Toolbox
+## 🧰 Toolbox
+
+**Backend:** Go · Node.js · Express · FastAPI · Flask · REST APIs
+
+**Data:** PostgreSQL · Redis · Prisma · SQL · MongoDB · Snowflake · pandas
 
 **Frontend:** React · Next.js · TypeScript · Tailwind CSS
 
-**Backend:** Node.js · Express · FastAPI · Flask · REST APIs
+**DevOps:** Docker · GitHub Actions · Linux/VPS · Vercel · Neon · Git
 
-**Data:** PostgreSQL · Prisma · SQL · MongoDB · pandas
+## 📫 Contact
 
-**Other:** NLP workflows · data pipelines · Git · Vercel · Neon
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/freelancertisa/) · [Upwork](https://www.upwork.com/freelancers/~01e0812d2a47505c90) · webdomain0126@gmail.com
+[LinkedIn](https://linkedin.com/in/freelancertisa) · webdomain0126@gmail.com
